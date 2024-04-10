@@ -1,5 +1,5 @@
 # CLASE 4
-Carpeta de Martín Herrera con la clase 4
+Carpeta de Delfina Di Paola con el Módulo 2
 ## Equípo Linces
 
 * Martín Federico Herrera
