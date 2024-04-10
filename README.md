@@ -1,6 +1,6 @@
 # MODULO 2
 Carpeta de Delfina Di Paola con el Módulo 2
-## Equípo Linces
+## Equipo Linces
 
 * Martín Federico Herrera
 * Delfina Di Paola
