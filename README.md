@@ -7,4 +7,4 @@ Carpeta de Delfina Di Paola con el Módulo 2
 * Guadalupe Gual Grossi
 * María Paz Antich
 * Emilia Gullé Linares
-* Boscafiori Lucía 
+* Lucía Boscafiori
